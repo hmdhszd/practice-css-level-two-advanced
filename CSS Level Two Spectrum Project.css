@@ -1,0 +1,36 @@
+td{
+	border: 5px solid white;
+	width: 200px;
+	height: 500px;
+}
+
+h1{
+	text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.art{
+	margin: auto;
+}
+
+#one{
+	background-color: #247ba0;
+}
+
+
+#two{
+	background-color:#70c1b3 ;
+}
+
+#tree{
+	background-color:#b2dbbf ;
+}
+
+#four{
+	background-color:#f3ffbd ;
+}
+
+#five{
+	background-color:#ff1654 ;
+}
+
