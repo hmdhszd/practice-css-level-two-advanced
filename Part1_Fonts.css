@@ -1,0 +1,28 @@
+h1{
+	font-family: 'Comic Neue', cursive;
+}
+
+p{
+	font-family: monospace;
+}
+
+
+body{
+	font-size: 1.0em;
+}
+
+#two{
+	font-size: 1.0em;
+}
+
+p{
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+h3{
+	font-family: 'NafeesRegular';
+	font-weight: normal;
+	font-style: normal; 
+}
